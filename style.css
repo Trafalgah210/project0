@@ -83,18 +83,18 @@ h1, h2, h3, h4, h5, h6 {
   background-size: cover;
 }
 
-#main .container {
+#Main .container {
   padding-top: 70px;
   position: relative;
 }
 
 @media (max-width: 992px) {
-  #main .container {
+  #Main .container {
     padding-top: 58px;
   }
 }
 
-#main h1 {
+#Main h1 {
   margin: 0;
   font-size: 48px;
   font-weight: 700;
@@ -102,7 +102,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #222222;
 }
 
-#main h2 {
+#Main h2 {
   color: #6f6f6f;
   margin: 10px 0 0 0;
   font-size: 22px;
